@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>GruvBoxFAP</id>
+  <editorColorsScheme>Gruv Box Material</editorColorsScheme>
+  <dark>true</dark>
+  <name>gruvbox theme Intellij</name>
+  <colors>
+    <color id="background" value="282828ff"/>
+    <color id="foreground" value="ebdbb2ff"/>
+    <color id="text" value="a89984ff"/>
+    <color id="highlight" value="1d2021ff"/>
+    <color id="selectionBackground" value="1d2021ff"/>
+    <color id="selectionForeground" value="fbf1c7ff"/>
+    <color id="button" value="282828ff"/>
+    <color id="secondaryBackground" value="282828ff"/>
+    <color id="disabled" value="a89984ff"/>
+    <color id="contrast" value="1d2021ff"/>
+    <color id="tableSelected" value="1d2021ff"/>
+    <color id="secondBorder" value="282828ff"/>
+    <color id="treeSelection" value="44475a50"/>
+    <color id="notifications" value="1d2228ff"/>
+    <color id="accent" value="fe8019ff"/>
+    <color id="excluded" value="313341ff"/>
+  </colors>
+  <themeId>GruvBoxFAP</themeId>
+</mtTheme>
